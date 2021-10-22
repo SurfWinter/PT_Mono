@@ -15,6 +15,6 @@
 	src:
 		url('PT-Mono_Bold.woff2') format('woff2'),
 		url('PT-Mono_Bold.woff') format('woff');
-	font-weight: normal;
+	font-weight: bold;
 	font-style: normal;
 }
