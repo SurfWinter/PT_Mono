@@ -2,7 +2,7 @@
 @import "content.css";
 
 @font-face {
-	font-family: 'PTMonoWebRegular';
+	font-family: 'PT Mono';
 	src:
 		url('PT-Mono_Regular.woff2') format('woff2'),
 		url('PT-Mono_Regular.woff') format('woff');
@@ -11,7 +11,7 @@
 }
 
 @font-face {
-	font-family: 'PTMonoWebBold';
+	font-family: 'PT Mono bold';
 	src:
 		url('PT-Mono_Bold.woff2') format('woff2'),
 		url('PT-Mono_Bold.woff') format('woff');
