@@ -1,7 +1,7 @@
 body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: 'PTMonoWebBold';
+  font-family: 'PT Mono', sans-serif;
   position: relative;
   background-color: #818181;
   color: #FFFFFF;
