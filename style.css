@@ -4,6 +4,7 @@
 @font-face {
 	font-family: 'PT Mono';
 	src:
+		url('PT-Mono_Regular.ttf') format('ttf'),
 		url('PT-Mono_Regular.woff2') format('woff2'),
 		url('PT-Mono_Regular.woff') format('woff');
 	font-weight: normal;
@@ -13,6 +14,7 @@
 @font-face {
 	font-family: 'PT Mono bold';
 	src:
+		url('PT-Mono_Bold.ttf') format('ttf'),
 		url('PT-Mono_Bold.woff2') format('woff2'),
 		url('PT-Mono_Bold.woff') format('woff');
 	font-weight: bold;
